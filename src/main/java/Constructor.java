@@ -9,6 +9,7 @@ public class Constructor {
         System.out.println(a);
         System.out.println(u);
         System.out.println(this.st);
+        System.out.println(b);
     }
 
     public static void main(String[] args) {
